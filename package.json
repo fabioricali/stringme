@@ -16,7 +16,9 @@
   },
   "keywords": [
     "JSON-stringify",
-    "undefined"
+    "undefined",
+    "null",
+    "stringify"
   ],
   "author": "Fabio Ricali",
   "license": "MIT",
