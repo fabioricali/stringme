@@ -24,6 +24,9 @@ stringme(new Date()); // "2018-03-11T12:48:46.252Z"
 
 // Remove quotes
 stringme(null, {quotes: false}); // null
+
+// JSON stringify params
+stringme({an:'object'}, {replace: null, space: 2});
 ```
 
 ## Changelog
